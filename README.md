@@ -1,11 +1,11 @@
 
-The BananaBread Engine
+AtomFury
 ======================
 
 A port of the Cube 2/Sauerbraten 3D game engine/first person shooter to the
 web, compiling C++ and OpenGL to JavaScript and WebGL using Emscripten.
 
-See the **[FAQ](https://github.com/kripken/BananaBread/wiki/FAQ)**.
+
 
 
 Demos
